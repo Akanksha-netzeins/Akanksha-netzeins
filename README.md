@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Akanksha
-- 👀 I’m interested in engineering 
+- 👀 I’m interested in web developer
 - 🌱 I’m currently persuing in btech IT
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
